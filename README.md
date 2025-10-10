@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 📚 A colloage student from China Shenyang University of Chemical Technology
+- 📚 A student from China Shenyang University of Chemical Technology
 - 💻 Passionate about programming and open-source technologies
 - 🌱 Constantly learning new technologies
 - 📫 How to reach me: [Via GitHub](https://github.com/zine0)
@@ -29,7 +29,6 @@
 ![zine0's GitHub stats](https://github-readme-stats.vercel.app/api?username=zine0&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zine0&layout=compact)
-
 
 ## 📈 Contribution Graph
 
