@@ -33,7 +33,7 @@
 
 ## 📈 Contribution Graph
 
-![zine0's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zine0)
+![zine0's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zine0&theme=minimal)
 
 ## 🎯 Focus On
 
